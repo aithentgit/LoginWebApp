@@ -29,6 +29,7 @@
                     </tr>
                     <tr>
                         <td colspan="2">New User will be add <a href="register.jsp">Register Here</a></td>
+                        <td> h333333333333333333333333333</td>
                     </tr>
                 </tbody>
             </table>
