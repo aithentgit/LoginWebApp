@@ -10,4 +10,8 @@ Welcome <%=session.getAttribute("userid")%>
 <%
     }
 %>
+<<<<<<< HEAD
 i added one line from master 
+=======
+ This is my line from LogApp
+>>>>>>> LogApp
