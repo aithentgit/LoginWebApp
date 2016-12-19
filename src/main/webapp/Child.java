@@ -14,4 +14,4 @@ public void add(){
 logger.log("From the child class");
 }
 }
-fffff
+
