@@ -41,7 +41,7 @@
            </snapshotRepository>
        </distributionManagement>  
 	<build>
-		<finalName>${names}</finalName>
+		<finalName>LoginWebApp</finalName>
                <plugins>
                  
                 <plugin>
