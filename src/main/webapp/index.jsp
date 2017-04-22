@@ -1,6 +1,10 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
+    <title> rama </title>
+    <title> second rama </title>
+	<title> third title </title>
+    <title> fourth title </title>
     <head>
         <meta http-equiv="Content-sssssssssType" content="text/html; charset=UTF-8">
         <title>JSP Example</title>
