@@ -10,6 +10,8 @@ public void add(){
    System.out.println("hi this is rama");
    System.out.println(Hi dosto, rama);
    System.out.println(how are you);
+    System.out.println(how are you);
+    System.out.println("#########################");
  }
 }
 
