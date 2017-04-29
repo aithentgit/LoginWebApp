@@ -13,6 +13,7 @@ public void add(){
     System.out.println(how are you);
     System.out.println("#########################");
    System.out.println("************************************");
+   System.out.println("%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%");
  }
 }
 
